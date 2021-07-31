@@ -11,6 +11,10 @@ pip install pyinstaller
 
 pyinstaller --onefile --window frontend.py
 
+![Screenshot (196)](https://user-images.githubusercontent.com/70461834/127746974-87ca93df-42a3-4a95-a409-731cb8f2885b.png)
+
+![Screenshot (197)](https://user-images.githubusercontent.com/70461834/127746986-f4942395-c3e4-40c7-ad59-16f200b6e6f4.png)
+
 
 
 
